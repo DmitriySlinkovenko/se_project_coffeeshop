@@ -29,14 +29,7 @@
   list-style-type: none;
   padding: 0;
   align-items: flex-end;
-}
-
-.footer__list-item {
-  margin: 0;
-}
-
-.footer__list-item_first {
-  margin-bottom: 16px;
+  gap: 16px;
 }
 
 .footer__social-link {

@@ -15,7 +15,6 @@
 .nav {
   display: flex;
   justify-content: space-between;
-  font-weight: 500;
 }
 
 .nav__logo {
@@ -43,7 +42,6 @@
 .nav__link:hover {
   color: #2f80ed;
   text-decoration: none;
-  font-weight: bold;
 }
 
 .header__title {
@@ -57,7 +55,7 @@
 }
 
 .header__span-accent {
-  font-family: "Noto Serif", "Times New Roman", sans-serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-size: 60px;
   line-height: 72px;
@@ -68,7 +66,7 @@
 .header__description {
   margin: 0;
   max-width: 683px;
-  font-family: "Noto Serif", "Times New Roman", sans-serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   z-index: 1;
