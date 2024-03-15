@@ -11,6 +11,13 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
+## Project description
+
+-functional coffee shop landing page
+-working links that navigate the user throughout the page
+-working reservation form with required name, email, date, number of guests and checkbox for terms of use with animated submit button
+-all links and buttons are animated
+
 ## Preview
 
 Main page of the project.
