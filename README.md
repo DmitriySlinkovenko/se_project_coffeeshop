@@ -34,4 +34,4 @@ Reservation page of the project. Includes complete booking information.
 
 ## Plan on improving the project
 
-Plan on adding more animations to the project as well as more custom reservation form.
+Plan on adding more animations to the project as well as more custom reservation form. Need a home button to comeback to heading from anywhere on page.
