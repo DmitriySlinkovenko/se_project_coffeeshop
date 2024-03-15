@@ -11,6 +11,20 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
+## Preview
+
+Main page of the project.
+
+![Main page of the project](/images/demo/main-page.jpg)
+
+Recipes page of the project with embedded youtube videos.
+
+![](/images/demo/recipes-page.jpg)
+
+Reservation page of the project. Includes complete booking information.
+
+![](/images/demo/reservation-page.jpg)
+
 ## Plan on improving the project
 
-Add your ideas here :)
+Plan on adding more animations to the project as well as more custom reservation form.
